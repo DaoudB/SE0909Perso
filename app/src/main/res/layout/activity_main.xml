@@ -22,9 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout_editor_absoluteX="57dp"
-        tools:layout_editor_absoluteY="16dp"
-        app:layout_constraintBottom_toTopOf="@+id/guideline"
-        />
+        tools:layout_editor_absoluteY="16dp" />
 
     <android.support.constraint.Guideline
         android:id="@+id/guideline"
